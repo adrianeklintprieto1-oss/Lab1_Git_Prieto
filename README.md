@@ -1,1 +1,1 @@
-"# Lab1_Git_Prieto" 
+"This repository belongs to PRIETO" 
